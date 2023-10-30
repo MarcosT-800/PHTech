@@ -93,62 +93,46 @@ export const footerLinks = [
     title: "Contato",
     links: [
       {
-        name: "Content",
+        name: "(11) 903352-2390",
         link: "https://www.hoobank.com/content/",
       },
       {
-        name: "How it Works",
+        name: "Email",
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
-        name: "Create",
-        link: "https://www.hoobank.com/create/",
-      },
-      {
-        name: "Explore",
-        link: "https://www.hoobank.com/explore/",
-      },
-      {
-        name: "Terms & Services",
+        name: "Ouvidoria",
         link: "https://www.hoobank.com/terms-and-services/",
       },
     ],
   },
   {
-    title: "Community",
+    title: "Sobre",
     links: [
       {
-        name: "Help Center",
+        name: "Quem somos",
         link: "https://www.hoobank.com/help-center/",
       },
       {
-        name: "Partners",
+        name: "Seja parceiro",
         link: "https://www.hoobank.com/partners/",
       },
       {
-        name: "Suggestions",
+        name: "Blog",
         link: "https://www.hoobank.com/suggestions/",
       },
       {
-        name: "Blog",
+        name: "Mais",
         link: "https://www.hoobank.com/blog/",
-      },
-      {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
       },
     ],
   },
   {
-    title: "Partner",
+    title: "Produtos",
     links: [
       {
-        name: "Our Partner",
+        name: "FGTS",
         link: "https://www.hoobank.com/our-partner/",
-      },
-      {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
   },

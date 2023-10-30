@@ -19,7 +19,7 @@ const CardDeal = () => (
     </div>
 
     <div className={layout.sectionImg}>
-      <img src='https://www.serasa.com.br/assets/cms/2022/onKsh3Xe-ecred-vertical.png' alt="billing" className="w-[100%] h-[100%]" />
+      <img src='./woman3.png' alt="billing" className="w-[100%] h-[auto]" />
     </div>
   </section>
 );
