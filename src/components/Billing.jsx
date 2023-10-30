@@ -6,7 +6,7 @@ import Button from "./Button";
 const Billing = () => (
   <section id="product" className={layout.sectionReverse}>
     <div className={layout.sectionImgReverse}>
-      <img src='teste3.png' alt="billing" className="w-[100%] h-[auto] relative z-[5]" />
+      <img src='./imagem_homem de preto.png' alt="billing" className="w-[100%] h-[auto] relative z-[5]" />
 
       {/* gradient start */}
       <div className="absolute z-[3] -left-1/2 top-0 w-[50%] h-[50%] rounded-full white__gradient" />
