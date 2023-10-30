@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star } from "../assets";
 
 export const navLinks = [
   {
@@ -49,24 +49,24 @@ export const feedback = [
     content:
       "Usar a PHtech para antecipar o meu FGTS foi uma decisão que mudou minha vida. Foi uma experiência excepcional que me ajudou a resolver meus problemas financeiros imediatos.",
     name: "Maria da Silva",
-    title: "Founder & Leader",
-    img: people01,
+    /* title: "Founder & Leader",
+    img: people01, */
   },
   {
     id: "feedback-2",
     content:
       "Conheci a Phtech através de um de meus amigos, ele disse que a PHtech iria solucionar meu problemas, E no fim me ajodou até mais!.",
     name: "João Pereira",
-    title: "Founder & Leader",
-    img: people02,
+    /* title: "Founder & Leader",
+    img: people02, */
   },
   {
     id: "feedback-3",
     content:
       "Não sabia como ia conseguir o dinheiro necessário até que alguém me indicou a PHtech. Decidi tentar a antecipação do FGTS e fiquei impressionado com a rapidez e a eficiência do processo.",
     name: "Carlos Santos",
-    title: "Founder & Leader",
-    img: people03,
+    /* title: "Founder & Leader",
+    img: people03, */
   },
 ];
 
