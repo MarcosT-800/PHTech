@@ -46,27 +46,23 @@ export const features = [
 export const feedback = [
   {
     id: "feedback-1",
-    content:
-      "Usar a PHtech para antecipar o meu FGTS foi uma decisão que mudou minha vida. Foi uma experiência excepcional que me ajudou a resolver meus problemas financeiros imediatos.",
+    content: "Fiz um empréstimo consignado pela PH Tech que me atendeu no momento em que eu mais precisava, com ótima taxa e montante atrativo. Porém, o que mais me chamou a atenção foi a agilidade que depositaram no meu atendimento, o que é algo difícil de se encontrar. Isso faz acreditar que a empresa atende seus clientes realmente de uma forma especial, sem medir esforços para atender à necessidade de cada um. Quero assim deixar registrado meus agradecimentos a PH Tech que tornou toda a negociação célere e super tranquila! Parabéns!",
     name: "Maria da Silva",
-    /* title: "Founder & Leader",
-    img: people01, */
+    title: "Founder & Leader",
   },
   {
     id: "feedback-2",
     content:
-      "Conheci a Phtech através de um de meus amigos, ele disse que a PHtech iria solucionar meu problemas, E no fim me ajodou até mais!.",
+      "Quero agradecer a PH Tech, pela oportunidade que me deu, de ser prestigiado com meu saque-aniversario. Atendimento repleto de atenção, dedicação e resultado quase instantâneo. Parabéns pelo trabalho muito bem feito! Muito Obrigado!",
     name: "João Pereira",
-    /* title: "Founder & Leader",
-    img: people02, */
+     title: "Founder & Leader",
   },
   {
     id: "feedback-3",
     content:
       "Não sabia como ia conseguir o dinheiro necessário até que alguém me indicou a PHtech. Decidi tentar a antecipação do FGTS e fiquei impressionado com a rapidez e a eficiência do processo.",
-    name: "Carlos Santos",
-    /* title: "Founder & Leader",
-    img: people03, */
+    name: "Ranieri Silva",
+    title: "Founder & Leader",
   },
 ];
 
