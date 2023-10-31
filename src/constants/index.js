@@ -1,4 +1,7 @@
 import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star } from "../assets";
+import iconmoney from '../assets/iconmoney3.png';
+import iconbag from '../assets/iconbag.png';
+import iconcash from '../assets/iconcash.png';
 
 export const navLinks = [
   {
@@ -22,21 +25,21 @@ export const navLinks = [
 export const features = [
   {
     id: "feature-1",
-    icon: star,
+    icon: iconmoney,
     title: "FGTS",
     content:
       "Antecipe seu FGTS em minutos! Siga nossas instruções passo a passo e obtenha acesso rápido aos recursos financeiros de que você precisa. Simples, seguro e eficiente.",
   },
   {
     id: "feature-2",
-    icon: shield,
+    icon: iconbag,
     title: "Antecipação",
     content:
       "Antecipe seus recursos financeiros com facilidade. Aprenda o passo a passo para garantir uma antecipação tranquila e rápida. Não espere, comece hoje mesmo.",
   },
   {
     id: "feature-3",
-    icon: send,
+    icon: iconcash,
     title: "Empréstimo",
     content:
       "Descubra como é simples e rápido obter o empréstimo que atende às suas necessidades financeiras. Aproveite as soluções financeiras inovadoras que oferecemos para impulsionar sua vida financeira.",
@@ -87,7 +90,7 @@ export const footerLinks = [
     title: "Contato",
     links: [
       {
-        name: "(11) 903352-2390",
+        name: "Telefone",
         link: "https://www.hoobank.com/content/",
       },
       {
@@ -112,10 +115,6 @@ export const footerLinks = [
         link: "https://www.hoobank.com/partners/",
       },
       {
-        name: "Blog",
-        link: "https://www.hoobank.com/suggestions/",
-      },
-      {
         name: "Mais",
         link: "https://www.hoobank.com/blog/",
       },
@@ -136,7 +135,7 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/ph_techoficial/",
   },
   {
     id: "social-media-2",
