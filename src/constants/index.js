@@ -49,7 +49,7 @@ export const features = [
 export const feedback = [
   {
     id: "feedback-1",
-    content: "Fiz um empréstimo consignado pela PH Tech que me atendeu no momento em que eu mais precisava, com ótima taxa e montante atrativo. Porém, o que mais me chamou a atenção foi a agilidade que depositaram no meu atendimento, o que é algo difícil de se encontrar. Isso faz acreditar que a empresa atende seus clientes realmente de uma forma especial, sem medir esforços para atender à necessidade de cada um. Quero assim deixar registrado meus agradecimentos a PH Tech que tornou toda a negociação célere e super tranquila! Parabéns!",
+    content: "Agradeço a todos dessa empresa, pois vocês dão aula em abordagem, tratativa, paciência e perseverança. Faz 2 anos que muitos entraram em contato referente ao FGTS, porém ninguém obteve sucesso. Até eu precisar e procurei pela PH Tech, fiquei encantada pelo atendimento que me fez fechar com vossa empresa.",
     name: "Maria da Silva",
     title: "Founder & Leader",
   },

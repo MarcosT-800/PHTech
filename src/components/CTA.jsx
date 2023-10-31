@@ -6,7 +6,7 @@ const CTA = () => (
     <div className="flex-1 flex flex-col">
       <h2 className={styles.heading2}>Faça já sua simulação</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Simule seu FGTS agora aqui mesmo e com a maior facilidade, acesse já.
+      Simule seu FGTS agora mesmo, com a máxima facilidade.
       </p>
     </div>
 
