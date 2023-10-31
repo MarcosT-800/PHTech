@@ -10,8 +10,8 @@ export const navLinks = [
     title: "passo a passo",
   },
   {
-    id: "Parceiro",
-    title: "Product",
+    id: "product",
+    title: "Parceiro",
   },
   {
     id: "clients",
@@ -52,15 +52,13 @@ export const feedback = [
   },
   {
     id: "feedback-2",
-    content:
-      "Quero agradecer a PH Tech, pela oportunidade que me deu, de ser prestigiado com meu saque-aniversario. Atendimento repleto de atenção, dedicação e resultado quase instantâneo. Parabéns pelo trabalho muito bem feito! Muito Obrigado!",
+    content: "Quero agradecer a PH Tech, pela oportunidade que me deu, de ser prestigiado com meu saque-aniversario. Atendimento repleto de atenção, dedicação e resultado quase instantâneo. Parabéns pelo trabalho muito bem feito! Muito Obrigado!",
     name: "João Pereira",
      title: "Founder & Leader",
   },
   {
     id: "feedback-3",
-    content:
-      "Não sabia como ia conseguir o dinheiro necessário até que alguém me indicou a PHtech. Decidi tentar a antecipação do FGTS e fiquei impressionado com a rapidez e a eficiência do processo.",
+    content: "Não sabia como ia conseguir o dinheiro necessário até que alguém me indicou a PHtech. Decidi tentar a antecipação do FGTS e fiquei impressionado com a rapidez e a eficiência do processo.",
     name: "Ranieri Silva",
     title: "Founder & Leader",
   },

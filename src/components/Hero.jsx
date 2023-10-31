@@ -32,7 +32,7 @@ const Hero = () => {
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
-        <img src='./teste2.png' alt="billing" className="w-[170%] h-[auto] relative z-[5]" />
+        <img src='./bgoficial.png' alt="billing" className="w-[170%] h-[auto] relative z-[5]" />
 
         {/* gradient start */}
         <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />

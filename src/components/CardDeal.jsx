@@ -10,8 +10,7 @@ const CardDeal = () => (
       FGTS de onde estiver.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+      Na PH Tech, colocamos o controle em suas mãos. Agora, você pode contratar um Empréstimo FGTS de onde quer que esteja. Aproveite a conveniência e a liberdade de gerenciar suas finanças sem sair do seu local. Com a PH Tech, o seu bem-estar financeiro está ao seu alcance, onde quer que você esteja.
       </p>
 {/* //referncia cnpj */}
 
