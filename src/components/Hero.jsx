@@ -9,6 +9,13 @@ const Hero = () => {
           <div>
 {/*           <img src="/" className="w-[30%] h-[auto] relative z-[5]"/>
  */}          </div>
+        <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
+          <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
+          <p className={`${styles.paragraph} ml-2`}>
+            <span className="text-white">Bem-vindo,</span> Você já conhece{" "}
+            <span className="text-white">o FGTS da nossa</span> Fintech?
+          </p>
+        </div>
         <div className="flex flex-row justify-between items-center w-full">
           <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]">
            A melhor experiência<br className="sm:block hidden" />{" "}
@@ -17,13 +24,6 @@ const Hero = () => {
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
           para você e seu cliente.
         </h1>
-        <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
-          <img src={discount} alt="discount" className="w-[32px] h-[32px]" />
-          <p className={`${styles.paragraph} ml-2`}>
-            <span className="text-white">Bem-vindo,</span> Você já conhece{" "}
-            <span className="text-white">o FGTS da nossa</span> Fintech?
-          </p>
-        </div>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         A PH TECH foi desenvolvida pensando em você corban e clientes, para que vocês tenham a melhor experiência com o produto FGTS. 
         </p>
@@ -32,7 +32,7 @@ const Hero = () => {
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
-        <img src='./bgoficial.png' alt="billing" className="w-[170%] h-[auto] relative z-[5]" />
+        <img src='./opa opa.png' alt="billing" className="w-[170%] h-[auto] relative z-[5]" />
 
         {/* gradient start */}
         <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />

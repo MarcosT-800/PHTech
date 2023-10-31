@@ -6,11 +6,11 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-      O controle é seu. <br className="sm:block hidden" /> Contrate o Empréstimo <br/>
-      FGTS de onde estiver.
+      O controle está em suas mãos! <br className="sm:block hidden" /> Realize agora a antecipação<br/>
+      do seu FGTS.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Na PH Tech, colocamos o controle em suas mãos. Agora, você pode contratar um Empréstimo FGTS de onde quer que esteja. Aproveite a conveniência e a liberdade de gerenciar suas finanças sem sair do seu local. Com a PH Tech, o seu bem-estar financeiro está ao seu alcance, onde quer que você esteja.
+      Na PH Tech, colocamos o controle em suas mãos. Agora, você pode contratar um Empréstimo FGTS de onde você estiver. Aproveite as vantagens e a liberdade de gerenciar suas finanças. Com a PH Tech, o seu bem-estar financeiro está ao seu alcance.
       </p>
 {/* //referncia cnpj */}
 

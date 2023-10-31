@@ -18,8 +18,8 @@ const Billing = () => (
       <h2 className={styles.heading2}>
        Junte-se a nós,<br className="sm:block hidden" />Seja Nosso Parceiro de Sucesso Financeiro.
       </h2>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Convidamos você a fazer parte da nossa jornada de sucesso financeiro. Venha fazer a diferença conosco!
+      <p className={`${styles.paragraph} max-w-[870px] mt-5`}>
+      A PH Tech é a nossa fintech criada especialmente para Corban, oferecendo o produto FGTS para impulsionar seus negócios e aumentar seus lucros. Oferecemos vantagens incríveis, como saques a partir de 50 reais, pagamentos aos finais de semana e transferências via PIX, garantindo que seus clientes recebam o dinheiro em até 3 minutos. Além disso, nosso sistema de comissões oferece recebimentos em D+1, com um gerenciamento completo e eficiente, atendendo às necessidades de você e seus clientes.
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
